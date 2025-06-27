@@ -1,0 +1,1 @@
+ALLOWED_HOSTS = ['dsangmin2336.pythonanywhere.com']
